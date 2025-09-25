@@ -9,7 +9,7 @@ directory.**
 
 *Course Work Links:*
 
-1. [A2 README.md](a2/a2_README.md "My A2 README.md file")
+1. 
 
     - Create conda environment
     - Export. yml file for testenv 
@@ -18,6 +18,9 @@ directory.**
 # **Assignment Screenshots**
 ![testenv](img/condaenv.png)
 ![jupyterlab](img/myenvpy.png)
+![jupyterlabapatients](img/jupyterlab1.png)
+![jupyterlabapatients](img/jupyterlab2.png)
+![jupyterlabapatients](img/jupyterlab3.png)
 ![jupyterlabapatients](img/jupyterlabpatients.png)
 
 
