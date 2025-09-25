@@ -18,6 +18,8 @@ directory.**
 # **Assignment Screenshots**
 ![testenv](img/condaenv.png)
 ![jupyterlab](img/myenvpy.png)
+![jupyterlabapatients](img/jupyterlabpatients.png)
+
 
 # **Link to my files**
 [ymlfile](testenv.yml)
