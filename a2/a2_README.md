@@ -26,7 +26,7 @@ directory.**
 
 [Jupyterlabfile](patient_data_cleaning.ipynb)
 
-[Pythonenv](my_env-version.
+[Pythonenv](my_env_versions.
 py)
 
 
