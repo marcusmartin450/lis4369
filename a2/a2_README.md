@@ -1,7 +1,7 @@
 **NOTE:** This README.md file should be placed at the **root of each of your main 
 directory.**
 
-# LIS4369 
+# LIS4369 Extensible Enterprise Solutions
 
 ## Marcus Martin
 
@@ -18,7 +18,7 @@ directory.**
 # **Assignment Screenshots**
 ![testenv](img/condaenv.png)
 ![jupyterlab](img/myenvpy.png)
-![jupyterlabapatients](img/jupyterlab1.png)
+![jupyterlabapatients](img/juplab21.png)
 ![jupyterlabapatients](img/jupyterlab2.png)
 ![jupyterlabapatients](img/jupyterlab3.png)
 ![jupyterlabapatients](img/jupyterlabpatients.png)
