@@ -18,9 +18,9 @@ directory.**
 
 2. [A2 README.md](a2/a2_README.md "My A2 README.md file")
 
-    - Create table company and customer
-    - Grant privileges to user1 and user2 @localhost 
-    - Populate tables with 5 entries 
+    - Create conda environment
+    - Export. yml file for testenv 
+    - Backward engineer patients.csv 
 
 
 
