@@ -28,12 +28,12 @@ directory.**
 | `git clone`     | Create a copy of a remote repository locally. |
 | `git status`    | Show the current state of the working directory and staging area. |
 
-#### Assignment Screenshots 
+# **Assignment Screenshots**
 ![IDLE](img/IDLE.png)
 ![IDLE](img/vsc.png)
 ![IDLE](img/jupyterlab.png)
 
-#### Link to my ipynb files
+# **Link to my ipynb files**
 [Jupyterlabfile](tip_calculator.ipynb)
 
   
