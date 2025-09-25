@@ -1,7 +1,7 @@
 **NOTE:** This README.md file should be placed at the **root of each of your main 
 directory.**
 
-# LIS4369 
+# LIS4369 Extensible Enterprise Solutions
 
 ## Marcus Martin
 
