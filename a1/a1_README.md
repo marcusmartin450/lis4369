@@ -16,15 +16,26 @@ directory.**
     - Install R studio 
     - Use jupyter lab
 
+# **Git Commands with Description**
+
+| **Git Command** | **Description** |
+|-----------------|-----------------|
+| `git init`      | Initialize a new Git repository in the current directory. |
+| `git add`       | Stage changes (files) to be committed. |
+| `git commit`    | Save staged changes to the repository history. |
+| `git push`      | Upload local commits to a remote repository. |
+| `git pull`      | Fetch and merge changes from a remote repository. |
+| `git clone`     | Create a copy of a remote repository locally. |
+| `git status`    | Show the current state of the working directory and staging area. |
+
 #### Assignment Screenshots 
 ![IDLE](img/IDLE.png)
 ![IDLE](img/vsc.png)
 ![IDLE](img/jupyterlab.png)
-[text](a5_solutions.sql)
+
 #### Link to my ipynb files
-![Valid Data](img/a5erd.png)
-##### SQL statement with corresponding result 
-![Valid Data](img/report2.png)
+[Jupyterlabfile](tip_calculator.ipynb)
+
   
 
 
