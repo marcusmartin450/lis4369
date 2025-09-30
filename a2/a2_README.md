@@ -46,3 +46,8 @@ py)
 
 [patientsclean](patients_clean.csv)
 
+[studentpercentage](studentpercentage.py)
+
+[acres](acres.py)
+
+[milespergallon](Miles_Per_Gallon.py)
