@@ -22,6 +22,13 @@ directory.**
 ![jupyterlabapatients](img/jupyterlab2.png)
 ![jupyterlabapatients](img/jupyterlab3.png)
 ![jupyterlabapatients](img/jupyterlabpatients.png)
+![jupyterlabapatients](img/acres.png)
+![jupyterlabapatients](img/mpg.png)
+![jupyterlabapatients](img/studentpercent.png)
+
+
+
+
 
 
 # **Link to my files**
