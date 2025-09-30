@@ -17,7 +17,7 @@ directory.**
 
 # **Assignment Screenshots**
 ![testenv](img/condaenv.png)
-![jupyterlab](img/myenvpy.png)
+![jupyterlab](img/myenv.png)
 ![jupyterlabapatients](img/juplab21.png)
 ![jupyterlabapatients](img/jupyterlab2.png)
 ![jupyterlabapatients](img/jupyterlab3.png)
