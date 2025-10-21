@@ -28,5 +28,10 @@ directory.**
     - Create Zip from csv file and convert into excel file 
     - Backward engineer pyhon scipt 
 
+4. [P1 README.md](p1/p1_README.md "My P1 README.md file")
+    
+     - Created sets using curly braces and the set() function with lists and tuples
+     - Performed operations to add, remove, discard, and clear elements from sets
+     - Calculated the minimum, maximum, and sum of numeric elements in a set
 
 
