@@ -62,4 +62,4 @@ del my_tuple1
 try:
     print(my_tuple1)  # this will raise NameError
 except NameError:
-    print("Note: my_tuple1 was deleted; printing it now raises a NameError.")
+    print("Note: my_tuple1 was deleted; printing it now gives an era NameError.")

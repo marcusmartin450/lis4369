@@ -34,4 +34,11 @@ directory.**
      - Performed operations to add, remove, discard, and clear elements from sets
      - Calculated the minimum, maximum, and sum of numeric elements in a set
 
+5. [A4 README.md](a4/a4_README.md "My A4 README.md file")
+    
+     - Implemnt dtaa extraction from sp500 
+     - Analyze inlfation and unemployment 
+     - Plot inflation and unemployment on chart then write to csv files 
+
+
 
