@@ -6,10 +6,10 @@
 
 *Course Work Summary:*
 
-1.
-- Implemented data extraction and visualization processes for real-world economic indicators.
-- Created an interactive dashboard to analyze unemployment and inflation trends.
-- Exported processed data to CSV files for further analysis and verification.
+1.  
+    - Implemented data extraction and visualization processes for real-world economic indicators.
+    - Created an interactive dashboard to analyze unemployment and inflation trends.
+    - Exported processed data to CSV files for further analysis and verification.
 
 
 # **Assignment Screenshots**
