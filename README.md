@@ -36,8 +36,8 @@ directory.**
 
 5. [A4 README.md](a4/a4_README.md "My A4 README.md file")
     
-     - Implemnt dtaa extraction from sp500 
-     - Analyze inlfation and unemployment 
+     - Implemnt data extraction from sp500 
+     - Analyze inflation and unemployment 
      - Plot inflation and unemployment on chart then write to csv files 
 
 
