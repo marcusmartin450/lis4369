@@ -1,7 +1,3 @@
-# ss10_dictionaries.py
-# Developer: Marcus Martin
-# Description: Demonstrates creation and manipulation of a Python dictionary.
-
 def main():
     print("Developer: Marcus Martin, Python Dictionaries Program")
     
@@ -34,6 +30,3 @@ def main():
     
     my_dictionary.clear()
     print('After clearing dictionary:', my_dictionary)
-
-if __name__ == '__main__':
-    main()

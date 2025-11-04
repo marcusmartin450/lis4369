@@ -1,7 +1,3 @@
-# ss11_random_numbers.py
-# Developer: Marcus Martin
-# Description: Generates pseudo-random numbers using randint() and shuffle().
-
 import random
 
 def main():
@@ -22,6 +18,3 @@ def main():
     for n in nums[:10]:
         print(n, end=' ')
     print()
-
-if __name__ == '__main__':
-    main()
