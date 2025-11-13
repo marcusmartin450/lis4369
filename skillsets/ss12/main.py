@@ -3,27 +3,22 @@ from functions import *
 # ss12_temperature_conversion.py
 # Developer: Marcus Martin
 def main():
-    print("Developer: Marcus Martin, Temperature Conversion Program")
-    print('-' * 50)
+   
+     print("Temperature Converter")
+     print("1. Fahrenheit to Celsius")
+     print("2. Celsius to Fahrenheit")
 
-    while True:
-        ans = input("Do you want to convert a temperature (y or n)? ").lower()
-        if ans == 'n':
-            print("Thank you for using our Temperature Conversion Program!")
-            break
-        elif ans != 'y':
-            print("Incorrect entry. Please try again.")
-            continue
+     choice = input("Choose a conversion (1 or 2): ")
 
-        conv = input("Fahrenheit to Celsius? Type 'f', or Celsius to Fahrenheit? Type 'c': ").lower()
-        if conv == 'f':
-            f = float(input("Enter temperature in Fahrenheit: "))
-            print("Temperature in Celsius =", f_to_c(f))
-        elif conv == 'c':
-            c = float(input("Enter temperature in Celsius: "))
-            print("Temperature in Fahrenheit =", c_to_f(c))
-        else:
-            print("Incorrect entry. Please try again.")
+     if choice == "1":
+        f = float(input("Enter temperature in Fahrenheit: "))
+        c = functions.f_to_c(f)
+        print(f"{f}°F is {c:.2f}°C")
+
+     elif choice == "2":
+        c = float(input("Enter temperature in Celsius: "))
+        f = functions.c_to_f(c)
+        print(f"{c}°C is {f:.2f}°F")
 
 if __name__ == '__main__':
     main()
