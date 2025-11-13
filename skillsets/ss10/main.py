@@ -1,9 +1,7 @@
 from functions import *
 
 def main():
-    print("Developer: Marcus Martin, Python Dictionaries Program")
-    print('-' * 50)
-
+  
     my_dictionary = create_dictionary()
 
     print('Print my_dictionary:', my_dictionary)

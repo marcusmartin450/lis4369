@@ -3,8 +3,7 @@ import random
 from functions import *
 
 def main():
-    print("Developer: Marcus Martin, Pseudo-Random Number Generator Program")
-    print('-' * 50)
+    
 
     beg = int(input("Enter beginning value: "))
     end = int(input("Enter ending value: "))
