@@ -40,11 +40,17 @@ directory.**
      - Analyze inflation and unemployment 
      - Plot inflation and unemployment on chart then write to csv files 
 
-5. [A5 README.md](a5/a5_README.md "My A5 README.md file")
+6. [A5 README.md](a5/a5_README.md "My A5 README.md file")
     
      - Use R and R studio 
      - Make Plots
      - Import dtaasets intp R 
+
+7. [P2 README.md](p2/p2_README.md "My P2 README.md file")
+    
+     - Load dataset from csv 
+     - Explore datasets in R
+     - Make plots in r studio 
 
 
 
