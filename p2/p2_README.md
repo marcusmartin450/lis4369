@@ -11,11 +11,7 @@
     - Explore r dataset and manipulate data 
     - Generate Plot 
 # **Assignment Screenshots**
-![Environment](environment.png)
-![tableview](tableview.png)
-![ss1](ss1.png)
-![ss2](ss2.png)
-![summary](summary.png)
+![4panel](4panel.png)
 ![horsepowervsmpg](horsepowervsmpg.png)
 ![Weightvsmpg](weightvsmpg.png)
 
