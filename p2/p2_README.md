@@ -17,7 +17,7 @@
 ![ss2](ss2.png)
 ![summary](summary.png)
 ![horsepowervsmpg](horsepowervsmpg.png)
-![Weightvsmpg](weightvsmpgg)
+![Weightvsmpg](weightvsmpg.png)
 
 # **Linked Files**
 - [lis4369_a2_output](lis4369_p2_output.txt)
